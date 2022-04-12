@@ -1,0 +1,4 @@
+line_length:
+  warning: 180
+excluded: 
+  - NeedleSampleApp/Needle.swift

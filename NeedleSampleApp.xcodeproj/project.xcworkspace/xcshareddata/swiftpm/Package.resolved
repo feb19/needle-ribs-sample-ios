@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NeedleFoundation",
+        "repositoryURL": "https://github.com/uber/needle.git",
+        "state": {
+          "branch": "master",
+          "revision": "30a4f935bc5bf6ffe83e030b29c35409c72158d4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

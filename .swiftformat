@@ -1,0 +1,3 @@
+--commas inline
+--exclude Needle.swift
+--allman false
